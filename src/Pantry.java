@@ -4,6 +4,8 @@
  * @author alumne 
  */
 public class Pantry {
+    
+    
 	private Jam jar1;
 	private Jam jar2;
 	private Jam jar3;
