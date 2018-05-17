@@ -24,7 +24,6 @@ public class PantryTester2 {
 		System.out.println("Welcome to Mother Hubbard's Party!");
 		System.out.println("The jams are: ");
 		hubbard.print();              
-                //do...while el qual selecciona la Jar i l'omple mentres quedi melmelada o s'escrigui per teclat -1
 		do {
 			System.out.println("Enter your selection (1,2,or 3):");
 			num = scan.nextInt();
