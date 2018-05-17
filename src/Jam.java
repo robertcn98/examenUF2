@@ -4,6 +4,9 @@
  * @author alumne
  */
 public class Jam {
+    
+    
+    
 	private String contents;
 	private String date;
 	private int capacity;
